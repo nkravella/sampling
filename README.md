@@ -152,6 +152,8 @@
 
 9. #### <a href="http://beatlandscapes.blogspot.com/"> Beat Landscape </a>
 
+9. #### <a href="https://fleamarketfunk.com/category/crate-digging/page/2/"> Flea Market Funk </a>
+
 ### Facebook Groups / Pages
 
 1. #### <a href="https://www.facebook.com/groups/vinyldom/"> Vinyle Archéologie: Crate Digging & Break Excavation </a>
@@ -159,4 +161,20 @@
 ### Labels
 
 1. #### <a href="https://www.emipm.com/en/"> Emipm </a>
+
+### Sampling Tips
+
+1. https://sampleface.co.uk/point-blanks-guide-to-sampling-history-development-techniques/
+
+2. To read next: https://sampleface.co.uk/15-more-awesome-places-for-e-digging/
+
+3. https://flypaper.soundfly.com/produce/common-approaches-to-flipping-vinyl-samples/
+
+4. https://flypaper.soundfly.com/produce/how-to-use-samples-in-your-tracks/
+
+5. https://flypaper.soundfly.com/produce/more-from-your-samples-transposition/
+
+6. https://flypaper.soundfly.com/produce/how-to-make-an-instrumental-track-shine-with-vocal-samples/
+
+7. https://flypaper.soundfly.com/hustle/covering-sampling-basics/
 
