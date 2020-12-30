@@ -130,6 +130,8 @@
 
 30. #### <a href="https://www.youtube.com/playlist?list=PLFC2CCC376C906C32"> Skylar's Sample Library </a> 
 
+31. #### <a href="https://www.youtube.com/playlist?list=PLLY57diCJFXAhvqtb1zWlonS6zG7EW4No"> Dope Samples by Jeff Jacobs </a> 
+
 ### Blogs & Websites
 
 1. #### <a href="http://www.vinylfrontiervip.com/"> Vinyl Frontier </a>
