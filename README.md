@@ -156,7 +156,9 @@
 
 9. #### <a href="http://beatlandscapes.blogspot.com/"> Beat Landscape </a>
 
-9. #### <a href="https://fleamarketfunk.com/category/crate-digging/page/2/"> Flea Market Funk </a>
+10. #### <a href="https://fleamarketfunk.com/category/crate-digging/page/2/"> Flea Market Funk </a>
+
+11. #### <a href="https://film-mixing.com/"> Film Mixing by Sreejesh Nair </a>
 
 ### Facebook Groups / Pages
 
@@ -166,7 +168,7 @@
 
 1. #### <a href="https://www.emipm.com/en/"> Emipm </a>
 
-### Sampling Tips
+### Article Dump
 
 1. https://sampleface.co.uk/point-blanks-guide-to-sampling-history-development-techniques/
 
@@ -181,4 +183,3 @@
 6. https://flypaper.soundfly.com/produce/how-to-make-an-instrumental-track-shine-with-vocal-samples/
 
 7. https://flypaper.soundfly.com/hustle/covering-sampling-basics/
-
