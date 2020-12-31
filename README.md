@@ -68,6 +68,8 @@
 
 33. #### <a href="https://www.youtube.com/user/ticoinjapan/videos"> Tico in Japan </a>
 
+34. #### <a href="https://www.youtube.com/user/RockerZIndia/videos"> Andy's Telugu Beats </a>
+
 ### YouTube (Playlists)
 
 1. #### <a href="https://www.youtube.com/playlist?list=PL1LFOeGp8kd4P87oO2ilgQdvDRv_CVzdq"> Royalty Free Samples (Soul Surplus, AOA, Drum Broker) </a>
