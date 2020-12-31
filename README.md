@@ -130,7 +130,9 @@
 
 30. #### <a href="https://www.youtube.com/playlist?list=PLFC2CCC376C906C32"> Skylar's Sample Library </a> 
 
-31. #### <a href="https://www.youtube.com/playlist?list=PLLY57diCJFXAhvqtb1zWlonS6zG7EW4No"> Dope Samples by Jeff Jacobs </a> 
+31. #### <a href="https://www.youtube.com/playlist?list=PLLY57diCJFXAhvqtb1zWlonS6zG7EW4No"> Dope Samples by Jeff Jacobs </a>
+
+32. #### <a href="https://www.youtube.com/c/TheMasteringProject/videos"> The Mastering Project by Sreejesh Nair </a> (re-mastered desi tracks)
 
 ### Blogs & Websites
 
