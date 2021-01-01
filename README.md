@@ -136,6 +136,8 @@
 
 32. #### <a href="https://www.youtube.com/c/TheMasteringProject/videos"> The Mastering Project by Sreejesh Nair </a> (re-mastered desi tracks)
 
+33. #### <a href="https://www.youtube.com/user/mohee1234/playlists"> QuaranTune </a> (re-mastered desi)
+
 ### Blogs & Websites
 
 1. #### <a href="http://www.vinylfrontiervip.com/"> Vinyl Frontier </a>
