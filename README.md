@@ -187,3 +187,7 @@
 6. https://flypaper.soundfly.com/produce/how-to-make-an-instrumental-track-shine-with-vocal-samples/
 
 7. https://flypaper.soundfly.com/hustle/covering-sampling-basics/
+
+### Sampling Workflow
+
+1. Spleeter (ML model by Deezer to convert into stems) --> YouTube to Stems (splitter.ai)?
