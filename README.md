@@ -70,6 +70,8 @@
 
 34. #### <a href="https://www.youtube.com/user/RockerZIndia/videos"> Andy's Telugu Beats </a>
 
+35. #### <a href="https://www.youtube.com/c/SOULBISCUITS/videos"> SOULBISCUITS </a>
+
 ### YouTube (Playlists)
 
 1. #### <a href="https://www.youtube.com/playlist?list=PL1LFOeGp8kd4P87oO2ilgQdvDRv_CVzdq"> Royalty Free Samples (Soul Surplus, AOA, Drum Broker) </a>
