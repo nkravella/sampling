@@ -192,6 +192,8 @@
 
 7. https://flypaper.soundfly.com/hustle/covering-sampling-basics/
 
+8. Crate Diggers series by Fuse (YouTube playlist): https://www.youtube.com/playlist?list=PL0DA2B4BAA4791B0F
+
 ### Sampling Workflow
 
 1. Spleeter (ML model by Deezer to convert into stems) --> YouTube to Stems (splitter.ai)?
