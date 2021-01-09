@@ -78,6 +78,10 @@
 
 38. #### <a href="https://www.youtube.com/c/SoftSoulLibrary/videos"> Soft Soul Library </a>
 
+39. #### <a href="https://www.youtube.com/c/StepDaw/videos"> Step DAW </a>
+
+40. #### <a href="https://www.youtube.com/channel/UChI7Iua0JgtQ9Bx6m1VOtIA"> Klymaxx Vinyl </a>
+
 ### YouTube (Playlists)
 
 1. #### <a href="https://www.youtube.com/playlist?list=PL1LFOeGp8kd4P87oO2ilgQdvDRv_CVzdq"> Royalty Free Samples (Soul Surplus, AOA, Drum Broker) </a>
