@@ -90,6 +90,8 @@
 
 44. #### <a href="https://www.youtube.com/user/mjothibasu/videos"> Jothibasu M </a>
 
+44. #### <a href="https://www.youtube.com/channel/UCUjvxyDog8WjHABj68O29vg/videos"> Digital Split </a>
+
 ### YouTube (Playlists)
 
 1. #### <a href="https://www.youtube.com/playlist?list=PL1LFOeGp8kd4P87oO2ilgQdvDRv_CVzdq"> Royalty Free Samples (Soul Surplus, AOA, Drum Broker) </a>
