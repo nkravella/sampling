@@ -214,6 +214,8 @@
 
 8. Crate Diggers series by Fuse (YouTube playlist): https://www.youtube.com/playlist?list=PL0DA2B4BAA4791B0F
 
-### Sampling Workflow
+### Acapellas (Not Final)
 
-1. Spleeter (ML model by Deezer to convert into stems) --> YouTube to Stems (splitter.ai)?
+1. #### <a href="https://acapella4free.blogspot.com/"> Acapella 4 Free </a>
+
+2. #### <a href="https://www.acapellas4u.co.uk/"> Acapellas 4 U </a> (needs sign up)
