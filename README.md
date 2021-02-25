@@ -90,7 +90,9 @@
 
 44. #### <a href="https://www.youtube.com/user/mjothibasu/videos"> Jothibasu M </a>
 
-44. #### <a href="https://www.youtube.com/channel/UCUjvxyDog8WjHABj68O29vg/videos"> Digital Split </a>
+45. #### <a href="https://www.youtube.com/channel/UCUjvxyDog8WjHABj68O29vg/videos"> Digital Split </a>
+
+46. #### <a href="https://www.youtube.com/channel/UCTK1y07nLgZEa_8akeWGUEQ/videos"> Coolest Rarest Things </a>
 
 ### YouTube (Playlists)
 
