@@ -94,6 +94,8 @@
 
 46. #### <a href="https://www.youtube.com/channel/UCTK1y07nLgZEa_8akeWGUEQ/videos"> Coolest Rarest Things </a>
 
+47. #### <a href="https://www.youtube.com/channel/UCHDI4CWIOj4bdZUv60EHGTw/videos"> SEVENMAN </a>
+
 ### YouTube (Playlists)
 
 1. #### <a href="https://www.youtube.com/playlist?list=PL1LFOeGp8kd4P87oO2ilgQdvDRv_CVzdq"> Royalty Free Samples (Soul Surplus, AOA, Drum Broker) </a>
